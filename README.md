@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+![Nandies's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandies&show_icons=true&theme=gruvbox)
